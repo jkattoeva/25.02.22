@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  flex: column;
+}
+article img {
+  max-width: 30%;
+}
+.img-right {
+  float: right;
+}
+.img-left {
+  float: left;
+}
