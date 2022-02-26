@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+} 
 main {
   display: flex;
   flex: column;
@@ -10,4 +13,9 @@ article img {
 }
 .img-left {
   float: left;
+}
+header h1 {
+  padding: 10px;
+  background-color: aquamarine;
+  margin: 0;
 }
